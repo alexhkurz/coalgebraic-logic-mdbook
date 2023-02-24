@@ -1,0 +1,10 @@
+[book]
+authors = ["alexhkurz"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Coalgebraic Logic"
+
+[output.html]
+mathjax-support = true
+
